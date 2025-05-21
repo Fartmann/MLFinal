@@ -16,7 +16,8 @@ Develop and deploy a machine learning model to solve a binary classification pro
 **joblib** for suitable format for deployment
 
 # RUNNING THE PROJECT
-*Before running the project we have to download all of the libraries needed : `pip install flask numpy scikit-learn joblib pandas`
+
+*Before running the project we have to download all of the libraries needed : `pip install -r requirements.txt`
 
 *Then we have to run binary.py to create and save model in .pkl files
 
